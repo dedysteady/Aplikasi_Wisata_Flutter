@@ -1,6 +1,6 @@
-# pariwisata
+# Aplikasi Pariwisata
 
-A new Flutter project.
+This project for Final Project in Mobile Programming course
 
 ## Getting Started
 
